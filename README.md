@@ -11,8 +11,7 @@ is all rights reserved.
 <img src="docs/character.png" alt="The Hot Potato Pete cover character" width="180">
 
 Play the [live game](https://karolf.github.io/public-games/hot-potato-pete/).
-The image above is character artwork, not a gameplay screenshot. The quality
-workflow checks the source project and does not deploy the demo.
+The quality workflow checks the source project and does not deploy the demo.
 
 ## Play
 
@@ -39,8 +38,7 @@ npm run dev
 
 The manual development server uses `http://127.0.0.1:8080`. Stop it when done.
 Browser audio requires a click/tap before playback. No account or backend is
-required for the ordinary web build. The owner confirmed working music and
-sound effects in manual testing on 2 November 2026.
+required for the ordinary web build.
 
 | Command | Result |
 | --- | --- |
@@ -107,12 +105,6 @@ through a development-only module. Production builds remove that import and
 the associated code. A build inspection checks for debug API/cheat markers,
 unexpected JavaScript chunks, and missing manifest assets.
 
-These are examples of the supervised AI-assisted cleanup recorded in this
-revision. They do not assert who typed every historical method. The human
-contribution confirmed by the owner is the initial manually crafted project,
-architecture, and ongoing supervision. All images, sound effects, and music
-are AI-generated; exact generation tools and terms have not been recorded.
-
 ## Build targets
 
 The ordinary web target has no Poki runtime integration. The Poki target enables
@@ -120,16 +112,11 @@ the existing Phaser plugin and platform lifecycle hooks. Both targets can be
 built locally; Poki platform services and acceptance require the platform's
 environment and are not covered by local build checks.
 
-The public source export contains the web game only. The private Capacitor
-Android wrapper, signing tools, and deployment script are excluded. Its quality
-workflow validates the web project and has read-only repository permissions;
-it does not publish builds or push commits to the game's hosting repository.
+The public source export contains the web game only. 
 
 ## Contributions
 
-This repository is a portfolio snapshot maintained by its owner. External
-contributions and pull requests are not accepted. Repository access settings,
-rather than this statement, control who can push or merge changes.
+This repository is a portfolio snapshot maintained by its owner. 
 
 ## Verification status and rights
 
