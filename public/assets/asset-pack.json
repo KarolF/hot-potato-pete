@@ -1,0 +1,236 @@
+{
+  "section1": {
+    "files": [
+      {
+        "type": "image",
+        "key": "background",
+        "url": "bacgkround.png"
+      },
+      {
+        "type": "image",
+        "key": "cover-illustration-hot-potato-pete",
+        "url": "cover_illustration1.png"
+      },
+      {
+        "type": "image",
+        "key": "cover_illustration_queen",
+        "url": "cover_illustration2.png"
+      },
+      {
+        "type": "image",
+        "key": "button_play",
+        "url": "button_play.png"
+      },
+      {
+        "type": "image",
+        "key": "htp_arrow",
+        "url": "htp_arrow.png"
+      },
+      {
+        "type": "image",
+        "key": "htp_ok",
+        "url": "htp_ok.png"
+      },
+      {
+        "type": "image",
+        "key": "htp_no",
+        "url": "htp_no.png"
+      },
+      {
+        "type": "image",
+        "key": "button_menu1",
+        "url": "button_menu1.png"
+      },
+      {
+        "type": "image",
+        "key": "button_next",
+        "url": "button_next.png"
+      },
+      {
+        "type": "image",
+        "key": "game_win_modal",
+        "url": "game_win_modal.png"
+      },
+      {
+        "type": "image",
+        "key": "progress_bar",
+        "url": "progress_bar.png"
+      },
+      {
+        "type": "image",
+        "key": "player_progress_bar",
+        "url": "player_progress_bar.png"
+      },
+      {
+        "type": "image",
+        "key": "opponent_progress_bar1",
+        "url": "opponent_progress_bar1.png"
+      },
+      {
+        "type": "image",
+        "key": "opponent_progress_bar2",
+        "url": "opponent_progress_bar2.png"
+      },
+      {
+        "type": "image",
+        "key": "opponent_progress_bar3",
+        "url": "opponent_progress_bar3.png"
+      },
+      {
+        "type": "image",
+        "key": "peter_face_2",
+        "url": "peter_face2.png"
+      },
+      {
+        "type": "image",
+        "key": "opponent_face_b",
+        "url": "opponent_face_b.png"
+      },
+      {
+        "type": "image",
+        "key": "opponent_face_c",
+        "url": "oppoonent_face_c.png"
+      },
+      {
+        "type": "image",
+        "key": "eye",
+        "url": "eye.png"
+      },
+      {
+        "type": "image",
+        "key": "sunglasses",
+        "url": "sunglasses.png"
+      },
+      {
+        "type": "image",
+        "key": "card_back",
+        "url": "cardback.png"
+      },
+      {
+        "type": "image",
+        "key": "card-hot-potato-pete",
+        "url": "card-hot-potato-pete.png"
+      },
+      {
+        "type": "image",
+        "key": "card_2",
+        "url": "card01.png"
+      },
+      {
+        "type": "image",
+        "key": "card_3",
+        "url": "card02.png"
+      },
+      {
+        "type": "image",
+        "key": "card_4",
+        "url": "card03.png"
+      },
+      {
+        "type": "image",
+        "key": "card_5",
+        "url": "card04.png"
+      },
+      {
+        "type": "image",
+        "key": "card_6",
+        "url": "card05.png"
+      },
+      {
+        "type": "image",
+        "key": "card_7",
+        "url": "card06.png"
+      },
+      {
+        "type": "image",
+        "key": "card_8",
+        "url": "card07.png"
+      },
+      {
+        "type": "image",
+        "key": "card_9",
+        "url": "card08.png"
+      },
+      {
+        "type": "image",
+        "key": "card_10",
+        "url": "card09.png"
+      },
+      {
+        "type": "image",
+        "key": "card_j",
+        "url": "card10.png"
+      },
+      {
+        "type": "image",
+        "key": "card_q",
+        "url": "card11.png"
+      },
+      {
+        "type": "image",
+        "key": "card_k",
+        "url": "card12.png"
+      },
+      {
+        "type": "audio",
+        "key": "SND_CARD_CLICK",
+        "url": [
+          "../sounds/chosen_1/twinz_being_removed.ogg",
+          "../sounds/chosen_1/twinz_being_removed.m4a"
+        ]
+      },
+      {
+        "type": "audio",
+        "key": "SND_CARD_PASS",
+        "url": [
+          "../sounds/chosen_1/direction_swoosh_03.ogg",
+          "../sounds/chosen_1/direction_swoosh_03.m4a"
+        ]
+      },
+      {
+        "type": "audio",
+        "key": "SND_PAIR_FOUND",
+        "url": [
+          "../sounds/chosen_1/powerup4.ogg",
+          "../sounds/chosen_1/powerup4.m4a"
+        ]
+      },
+      {
+        "type": "audio",
+        "key": "SND_HOT_POTATO_PETE",
+        "url": [
+          "../sounds/chosen_1/super_jump_01.ogg",
+          "../sounds/chosen_1/super_jump_01.m4a"
+        ]
+      },
+      {
+        "type": "audio",
+        "key": "SND_MATCH_WIN",
+        "url": [
+          "../sounds/chosen_1/scoring_04_yay.ogg",
+          "../sounds/chosen_1/scoring_04_yay.m4a"
+        ]
+      },
+      {
+        "type": "audio",
+        "key": "SND_MATCH_LOSE",
+        "url": [
+          "../sounds/chosen_1/super_jump_01.ogg",
+          "../sounds/chosen_1/super_jump_01.m4a"
+        ]
+      },
+      {
+        "type": "audio",
+        "key": "MUSIC_BGM",
+        "url": [
+          "../sounds/music/sunday_morning_plan.ogg",
+          "../sounds/music/sunday_morning_plan.m4a"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "version": 2,
+    "showAllFilesInBlocks": false
+  }
+}

@@ -1,0 +1,31 @@
+node_modules/
+dist/
+dist-poki/
+playwright-report/
+test-results/
+dev-server.log
+dev-server.err.log
+.env
+
+*.apk
+*.apk.idsig
+
+# Signing material and local Android configuration
+*.jks
+*.keystore
+*.p12
+*.pfx
+*.pem
+*.key
+key.properties
+keystore.properties
+signing.properties
+google-services.json
+local.properties
+.env.*
+!.env.example
+
+# Curated review exports and generated output
+portfolio-export/
+coverage/
+*.log
